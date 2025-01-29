@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi! My name is Arqam Usman Ali and I am a Software Engineer with a B.S in Web and Information Systems from the New Jersey Institute of Technology<br><br>👷🏽‍♂️ I’m currently working on improving my JavaScript skills through projects<br>💻 I’m currently looking for opportunities in the industry<br>👨🏽‍💻 I'm looking to be a Software Engineer with interest in Software Development and expertise in Java and Python<br>🌍 Fun fact: I’m a flag enthusiast and can identify all 195 national flags in the world—yes, even the tricky ones! <br><br>Here's my Portfolio: https://aa358.github.io/ 
+# Hi! I'm Arqam 👋🏽
+Hi! My name is Arqam Usman Ali and I am a Software Engineer with a B.S in Web and Information Systems from the New Jersey Institute of Technology (NJIT)<br><br>👷🏽‍♂️ I’m currently working on improving my JavaScript skills through projects<br>💻 I’m currently looking for opportunities in the industry<br>👨🏽‍💻 I'm looking to be a Software Engineer with interest in Software Development and expertise in Java and Python<br>🌍 Fun fact: I’m a flag enthusiast and can identify all 195 national flags in the world—yes, even the tricky ones! <br><br>Here's my Portfolio: https://aa358.github.io/ 
 
 
 ## 🌐 Socials:
